@@ -12,6 +12,5 @@ First Aid App.
 The First Aid App requires [Node.js](https://nodejs.org/) and [React Native](https://reactnative.dev/) to execute.
 
 ```sh
-$ cd garcomapp
-$ cordova platform add android
-$ cordova platform add ios
+$ cd First-Aid
+$ expo start
